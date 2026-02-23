@@ -10,6 +10,16 @@
     <header>
         <h1>Bestiář: interaktivní encyklopedie zvířat</h1>
         <!--udelat vyber zvirat -->
+        <form action="">
+            <select name="animals" id="animal-select">
+                <option value="0">všechna</option>
+                <option value="1">savci</option>
+                <option value="2">ptáci</option>
+                <option value="3">plazí</option>
+                <option value="4">ryby</option>
+            </select>
+            <button type="button" onclick="filterAnimals()" id="formButton">aplikovat</button>
+        </form>
     </header>
     <main>
         <div id="bestiary-container">
