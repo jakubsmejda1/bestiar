@@ -57,7 +57,7 @@ const databazeTvoru = [
         jmeno: "Delfín obecný",
         druh: "savci",
         popis: "Inteligentní mořský savec s družným chováním a sofistikovanou komunikací.",
-        foto: ""
+        foto: "https://tse4.mm.bing.net/th/id/OIP.KPbDf4fsC9QCTqcYkj4gCQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
     },
     {
         jmeno: "Tučňák císařský",
