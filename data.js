@@ -114,3 +114,5 @@ const databazeTvoru = [
         foto: "https://us1.discourse-cdn.com/palmettostatearmory/original/3X/3/d/3da5a7644230250282dd4609e68b6cddfaf75fcc.jpeg"
     }
 ];
+const druhy = ["savci", "ptaci", "plazi", "ryby"];
+const barvy = ["#ff9982ff", "#83ff9aff", "#8da1ffff", "#f67affff"];
