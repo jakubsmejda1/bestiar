@@ -152,7 +152,7 @@ const databazeTvoru = [
     {
         jmeno: "Meowl",
         druh: "ptáci",
-        popis: ",,I´m a new soul, I came to this tsrange world, hopin´ I could learn a bit about how to give and take.,,",
+        popis: ",,I´m a new soul, I came to this strange world, hopin´ I could learn a bit about how to give and take.,,",
         foto: "https://media.tenor.com/hyPTwhOcEDMAAAAe/meowl.png"
     },
     {
