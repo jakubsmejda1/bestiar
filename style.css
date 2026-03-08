@@ -18,20 +18,6 @@
     margin: 0px auto;
     padding: 0px 35px;
 }
-/* Galerie: původní formát obrázků */
-.gallery-img{
-    width: 100%;
-    min-width: 650px;
-    border: none;
-    border-radius: 0px;
-    box-shadow: none;
-    display: block;
-    margin: 0px auto;
-    transition: 0.3s filter;
-}
-.gallery-img:hover{
-    filter: brightness(0.95) contrast(1.08);
-}
 body{
     margin: 0px;
     padding: 0px;
@@ -212,7 +198,7 @@ footer{
     height: 100%;
     object-fit: cover;
     object-position: center center;
-    filter: brightness(0.85) contrast(1.08);
+    filter: brightness(0.85) contrast(1.15);
     display: block;
     max-width: 100%;
     max-height: 100%;
@@ -233,6 +219,11 @@ footer{
     letter-spacing: 2px;
     text-transform: uppercase;
     color: #ffcc00;
+    transition: 1s ease-in-out;
+}
+.hero-title h1:hover{
+    color: #ffcc00e0;
+    transition: 1.3s ease-out;
 }
 .hero-title h2{
     font-size: 1.3rem;
